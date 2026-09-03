@@ -1,0 +1,9 @@
+{
+  "servers": [
+    {
+      "name": "hexstrike",
+      "command": "/path/to/hexstrike-ai/venv/bin/python3",
+      "args": ["hexstrike_mcp.py"]
+    }
+  ]
+}
